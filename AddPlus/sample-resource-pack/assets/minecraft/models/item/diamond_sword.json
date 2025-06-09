@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_sword"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 10001 }, "model": "custom/my_custom_sword_model" }
+  ]
+}
