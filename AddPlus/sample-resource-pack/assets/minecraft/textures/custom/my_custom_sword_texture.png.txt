@@ -1,0 +1,3 @@
+This is a placeholder for my_custom_sword_texture.png.
+It should be a 16x16 (or larger, power of 2) PNG image.
+For example, a simple red square.

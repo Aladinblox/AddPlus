@@ -1,0 +1,28 @@
+name: AddPlus
+version: \0.1.0-SNAPSHOT
+main: com.addplus.addplusplugin.AddPlusPlugin
+api-version: 1.21
+authors: [YourName, TraeAI]
+description: \Item adder plugin for Minecraft 1.21
+website: # Optional: Your project website
+commands:
+  addplus:
+    description: Base command for AddPlus plugin.
+    usage: /<command> help
+    aliases: [ap]
+permissions:
+  addplus.use:
+    description: Allows general use of AddPlus features (placeholder, actual use TBD).
+    default: op
+  addplus.give:
+    description: Allows usage of the /addplus give command.
+    default: op
+  addplus.reload:
+    description: Allows usage of the /addplus reload command.
+    default: op
+  addplus.list:
+    description: Allows usage of the /addplus list command.
+    default: op
+  addplus.gui:
+    description: Allows usage of the /addplus gui command.
+    default: op

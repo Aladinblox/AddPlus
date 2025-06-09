@@ -1,0 +1,6 @@
+com/addplus/addplusplugin/gui/GuiManager.class
+com/addplus/addplusplugin/config/ItemConfigLoader.class
+com/addplus/addplusplugin/items/CustomItem.class
+com/addplus/addplusplugin/commands/CommandManager.class
+com/addplus/addplusplugin/AddPlusPlugin.class
+com/addplus/addplusplugin/items/ItemRegistry.class

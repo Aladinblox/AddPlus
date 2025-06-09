@@ -1,0 +1,6 @@
+/app/AddPlus/1.21/src/main/java/com/addplus/addplusplugin/config/ItemConfigLoader.java
+/app/AddPlus/1.21/src/main/java/com/addplus/addplusplugin/commands/CommandManager.java
+/app/AddPlus/1.21/src/main/java/com/addplus/addplusplugin/gui/GuiManager.java
+/app/AddPlus/1.21/src/main/java/com/addplus/addplusplugin/items/CustomItem.java
+/app/AddPlus/1.21/src/main/java/com/addplus/addplusplugin/items/ItemRegistry.java
+/app/AddPlus/1.21/src/main/java/com/addplus/addplusplugin/AddPlusPlugin.java
